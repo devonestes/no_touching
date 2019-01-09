@@ -1,0 +1,4 @@
+[
+  {Mix.Dep, :cached, 0},
+  {Mix.Compilers.Elixir, :read_manifest, 2}
+]
